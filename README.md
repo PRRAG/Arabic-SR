@@ -7,5 +7,8 @@ Offline Arabic Speech Recognition on iOS
   - Classical Model (HMM)
   
 ## Requirements
-  - install Carthage
+  - Get Carthage by running 
+       `brew install carthage`
   - iOS 12.2
+  - download Arabic Model (LM,dic,parameters)  
+        https://drive.google.com/open?id=1ZkWiJMfQihR29CtwxwYmFMOW1qZTXk4R
